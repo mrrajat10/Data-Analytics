@@ -1,0 +1,5 @@
+movie,budget,revenue,runtime,genres,orig_lang,release_date,profit,release_year,release_month
+Inception,160000000,829895144.0,148.0,Sci-Fi,english,2010-07-16,669895144.0,2010,July
+Titanic,200000000,2187463944.0,195.0,Romance,english,1997-12-19,1987463944.0,1997,December
+Avatar,237000000,2847246203.0,162.0,Sci-Fi,english,2009-12-18,2610246203.0,2009,December
+Avengers,220000000,1842370298.8,181.0,Action,english,2012-05-04,1622370298.8,2012,May
