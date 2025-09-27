@@ -1,4 +1,4 @@
-# Data Analytics Projects 📊
+# Data Analytics 📊
 
 This repository contains **data analytics projects and exercises** using Python and other tools, aimed at building hands-on skills in **data manipulation, analysis, and visualization**. It includes real-world projects to demonstrate practical applications of data analytics concepts.
 
