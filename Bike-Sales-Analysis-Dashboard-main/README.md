@@ -2,7 +2,7 @@
 
 ## 1. Title-Bike-Sales-Analysis-Dashboard
 
-## 2. Executive Summary & Impact
+## Executive Summary & Impact
 
 -This project presents a dynamic, interactive Excel dashboard designed to analyze customer demographics, purchase behavior, and regional bike sales performance for Bike Sales.
 
