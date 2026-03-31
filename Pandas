@@ -1,0 +1,24 @@
+# Pandas Projects 🐼
+
+This repository contains exercises and projects built using **Pandas**, the powerful Python library for data manipulation and analysis.
+
+## 📌 Contents
+- DataFrames and Series creation
+- Importing and exporting data (CSV, Excel, JSON)
+- Indexing, slicing, and filtering
+- Handling missing data
+- Aggregation, grouping, and pivot tables
+- Merging and joining datasets
+- Time series data analysis
+- Real-world small projects and hands-on examples
+
+## 🚀 Why Pandas?
+Pandas provides fast, flexible, and expressive data structures designed to make working with structured data easy, which is essential for data analysis, machine learning, and visualization.
+
+## 🛠️ Requirements
+- Python 3.x
+- Pandas
+
+Install dependencies with:
+```bash
+pip install pandas
